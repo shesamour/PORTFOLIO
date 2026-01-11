@@ -2,10 +2,10 @@ Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanisch
 
 # Inhalte und Aufgaben:
 
-    - Auswahl geeigneter Passungen und Festlegung von Maß-, Form- und Lagetoleranzen für die Bauteile der Baugruppe;
-    - Definition von Oberflächenrauheiten einschließlich allgemeiner Rauheitsangaben;
-    - Erstellung der Baugruppezeichnung mit technischen Anforderungen und spezifizierten Passungen;
-    - Ausarbeitung vollständiger Einzelteilzeichnungen mit:
+   - Auswahl geeigneter Passungen und Festlegung von Maß-, Form- und Lagetoleranzen für die Bauteile der Baugruppe;
+   - Definition von Oberflächenrauheiten einschließlich allgemeiner Rauheitsangaben;
+   - Erstellung der Baugruppezeichnung mit technischen Anforderungen und spezifizierten Passungen;
+   - Ausarbeitung vollständiger Einzelteilzeichnungen mit:
         1) technischen Anforderungen
         2) Maß- und Form-/Lagetoleranzen
         3) Oberflächenangaben
