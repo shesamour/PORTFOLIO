@@ -12,7 +12,7 @@
 
 • Technische Zeichnungen
   
-• Analyse und Vorbereitung der Berechnungsgrundlagen (Dokumentation)
+• Technische Analyse und Dokumentation der Baugruppe
 
 ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ VERWENDETE TOOLS:
 
