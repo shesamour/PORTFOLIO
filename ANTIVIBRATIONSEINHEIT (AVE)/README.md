@@ -17,4 +17,5 @@
 ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ VERWENDETE TOOLS:
 
 • SolidWorks für Makers
+
 • offene Internetquellen für Referenzen
