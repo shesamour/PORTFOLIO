@@ -19,4 +19,4 @@
 
 • offene Internetquellen für Referenzen
 
-• Norm- und Herstellerkataloge nach DIN/ISO (öffentlich zugängliche Quellen)
+• DIN- und ISO-Normkataloge (öffentlich zugängliche Quellen)
