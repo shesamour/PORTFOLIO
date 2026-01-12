@@ -1,11 +1,12 @@
 ## Projektübersicht
 Entwicklung einer Baugruppe – Schwingungsdämpfende Anlage nach Referenz.
 
-Ziel des Projekts ist die Erstellung einer normgerechten Konstruktionsdokumentation für eine Baugruppe unter Anwendung einschlägiger DIN- und ISO-Normen.
+Projektziel: Entwicklung einer Baugruppe sowie Erstellung einer zugehörigen normgerechten Konstruktionsdokumentation  unter Berücksichtigung einschlägiger DIN- und ISO-Normen.
+
 ### Durchgeführte Arbeiten
 
 - Technische Analyse und Dokumentation der Baugruppe
-- 3D-Modellen der Baugruppe und Einzelteile 
+- 3D-Modellierung der Baugruppe und Einzelteile 
 - Explosionsdarstellung
 - Stückliste
 - Erstellung von Zeichnungen (PDF)
