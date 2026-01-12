@@ -11,6 +11,7 @@
 - **Baugruppenerstellung** — Antivibrationsvorrichtung (auch Antivibrationseinheit, Schwingungsdämpfungsanlage)
 
 ### In Bearbeitung
+```/REDUZIERVENTIL (RV)``` 
 - **Baugruppenerstellung** — Gehäusedeckel des Reduzierventils
 
 
