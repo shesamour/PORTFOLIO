@@ -1,5 +1,16 @@
-# ✧ PORTFOLIO ✧
+# SOLIDWORKS Projects
 
-Ich freue mich, Ihnen hiermit mein Konstruktionsportfolio vorstellen zu dürfen!
+**Aktualität:** Januar 2026
 
-Auf Anfrage können Modelle, vollständige Zeichen- und Dokumentationssätze bereitgestellt werden. 
+### Abgeschlossen
+- **Universitäre Berechnungsarbeit (UA)**  
+  Technische Dokumentation und CAD-gestützte Zeichnungen
+
+- **Fertigung einer Baugruppe**  
+  Antivibrationsvorrichtung (auch Antivibrationseinheit, Schwingungsdämpfungsanlage)
+
+### In Bearbeitung
+- **Fertigung einer Baugruppe**  
+  Gehäusedeckel des Reduzierventils
+
+
