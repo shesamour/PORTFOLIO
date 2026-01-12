@@ -3,12 +3,12 @@
 
 Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanische Baugruppe. Der Fokus liegt auf der funktionalen Auslegung, der Definition von Passungen sowie der Erstellung von Fertigungs- und Montagezeichnungen gemäß verwendeter Normen.
 
-# /01_Berechnungen
+## /01_Berechnungen
 
    - Auswahl geeigneter Passungen und Festlegung von Maß-, Form- und Lagetoleranzen für die Bauteile der Baugruppe
    - Definition von Oberflächenrauheiten einschließlich allgemeiner Rauheitsangaben
 
-# /02_Zeichnungen
+## /02_Zeichnungen
 
    - Erstellung der Baugruppezeichnung mit technischen Anforderungen und spezifizierten Passungen
    - Ausarbeitung vollständiger Einzelteilzeichnungen mit
