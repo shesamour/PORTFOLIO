@@ -1,7 +1,7 @@
 # Inhalt
 - Design tree (mates)
 ## /assembly
-- Screenshots der Baugruppe im zusammengebauten Zustand
-- Screenshots der Bauteile
+- Screenshots von Modellen der Bauteile
+- Screenshots der Baugruppe 
 ## /render
 - Animation der Explosionsansicht
