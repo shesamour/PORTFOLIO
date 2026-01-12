@@ -7,7 +7,7 @@
 #
     /(UA) KONSTRUKTIONSPROJEKT_mechanische-konstruktion-berechnung-zeichnung
 
-- **Universitäre Berechnungsarbeit (UA)** — Technische Dokumentation und CAD-gestützte Zeichnungen 
+- **Universitäre Berechnungsarbeit** (Sprache: Ukr) — Technische Dokumentation und CAD-gestützte Zeichnungen 
     
 
 #
