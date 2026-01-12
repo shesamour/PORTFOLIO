@@ -11,7 +11,7 @@ Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanisch
 ## /02_Zeichnungen
 
    - Erstellung der Baugruppezeichnung mit technischen Anforderungen und spezifizierten Passungen
-   - Ausarbeitung vollständiger Einzelteilzeichnungen mit
+   - Ausarbeitung vollständiger Einzelteilzeichnungen gemäß:
         1) technischen Anforderungen
         2) Maß- und Form-/Lagetoleranzen
         3) Oberflächenangaben
