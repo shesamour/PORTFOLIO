@@ -2,12 +2,12 @@
 
 - Stückliste — Schwingungsdämpfungsanlage
 
-# /assembly
+## /assembly
 
 - AVE-EXP-01 — Explosionsdarstellung
 - AVE-ASM-01 — Übersichtszeichnung
 
-# /parts
+## /parts
 
 - AVE-001 — Gehäuse
 - AVE-002 — Joch
