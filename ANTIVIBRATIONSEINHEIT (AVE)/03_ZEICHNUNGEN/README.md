@@ -3,6 +3,7 @@
 - Stückliste – Schwingungsdämpfungsanlage
 
 ### /assembly
+```//in Bearbeitung```
 - AVE-EXP-01 – Explosionsdarstellung
 - AVE-ASM-01 – Übersichtszeichnung
 
