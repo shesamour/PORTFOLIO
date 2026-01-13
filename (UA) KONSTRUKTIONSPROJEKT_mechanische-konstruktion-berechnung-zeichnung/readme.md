@@ -1,7 +1,7 @@
 
 # Inhalt und Aufgaben
 
-Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanische Baugruppe. Der Fokus liegt auf der funktionalen Auslegung, der Definition von Passungen sowie der Erstellung von Fertigungs- und Montagezeichnungen gemäß verwendeter Normen.
+Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanische Baugruppe im Rahmen eines Studienprojekts. Der Fokus liegt auf der funktionalen Auslegung, der Definition von Passungen sowie der Erstellung von Fertigungs- und Montagezeichnungen gemäß verwendeter Normen.
 
 ## /01_Berechnungen
 
